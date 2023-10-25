@@ -1,0 +1,11 @@
+ID,Name,Email,Age,DateOfBirth,PhoneNumber,Status
+1,John Doe,john.doe@example.com,30,1989-12-31,1234567890,Active
+2,Jane Smith,jane.smith@example.com,28,1991-07-24,0987654321,Inactive
+3,Michael Johnson,michael.johnson@example.com,35,1984-06-15,1122334455,Active
+4,Emily Williams,emily.williams@example.com,25,1994-10-08,5566778899,Active
+5,James Brown,1001,32,1987-02-03,7788991122,Inactive
+6,Jennifer Davis,jennifer.davis@example.com,27,1992-05-16,2244668800,Active
+7,Robert Miller,robert.miller@example.com,29,1990-09-20,9988776655,Inactive
+8,Patricia Wilson,patricia.wilson@example.com,33,1986-04-12,3344556677,Active
+9,David Moore,david.moore@example.com,34,1985-03-17,9911223344,Inactive
+10,Mary Taylor,mary.taylor@example.com,31,1988-01-27,8811223344,Active

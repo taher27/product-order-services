@@ -1,0 +1,11 @@
+petId,additionalMetadata,file
+1234,Data for pet 1234,myFile.jpg
+5678,,yourFile.png
+9101,More data for pet 9101,
+1121,Even more data for pet 1121,theirFile.gif
+1314,,ourFile.bmp
+1516,Final bit of data for pet 1516,itsFile.pdf
+1718,Oops a number in email field,herFile.docx
+stringsForIds,And a string for petId,hisFile.txt
+,Missing petId and additionalMetadata,theFile.jpeg
+2021,Last row of data,lastFile.xls
