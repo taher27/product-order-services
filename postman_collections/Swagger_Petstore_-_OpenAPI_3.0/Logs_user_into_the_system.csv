@@ -1,0 +1,11 @@
+username,password,statusCode
+theUser1,12345,200
+theUser2,12345,400
+theUser3,12345,200
+theUser4,12345,400
+theUser5,12345,200
+theUser6,12345,400
+theUser7,12345,200
+theUser8,12345,400
+theUser9,12345,200
+theUser10,12345,400

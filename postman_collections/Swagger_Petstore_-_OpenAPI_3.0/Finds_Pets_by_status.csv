@@ -1,0 +1,11 @@
+status,statusCode
+available,200
+pending,400
+sold,200
+available,400
+pending,200
+sold,400
+available,200
+pending,400
+sold,200
+available,400
