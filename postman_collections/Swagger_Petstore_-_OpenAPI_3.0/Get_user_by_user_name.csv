@@ -1,0 +1,11 @@
+username,statusCode
+theUser1,200
+theUser2,400
+theUser3,404
+theUser4,200
+theUser5,400
+theUser6,404
+theUser7,200
+theUser8,400
+theUser9,404
+theUser10,200
