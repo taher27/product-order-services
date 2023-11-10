@@ -1,0 +1,11 @@
+name,status,petId,statusCode
+doggie,available,198772,405
+John,pending,198773,405
+James,sold,198774,405
+theUser,available,198775,405
+doggie2,pending,198776,405
+John2,sold,198777,405
+James2,available,198778,405
+theUser2,pending,198779,405
+doggie3,sold,198780,405
+John3,available,198781,405
