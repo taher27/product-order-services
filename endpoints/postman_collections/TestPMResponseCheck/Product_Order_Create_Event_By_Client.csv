@@ -1,0 +1,7 @@
+date,subscriberId,id,correlationOrder,associatedDocument,code,description,type,observation,updateDate,action,task,fieldActivity,reason,lostEquipment,gponAccess,device,item,statusCode,scenario
+2021-06-09T18:20:53-03:00,SVTAL001,14393,10,VTT001,616551,Instalacao,FTTH,,2021-06-09T18:20:53-03:00,adicionar,task,fieldActivity,reason,False,gponAccess,device,item,204,OperaÃ§Ã£o realizada com sucesso
+2021-06-09T18:20:53-03:00,SVTAL001,14393,10,VTT001,616551,Instalacao,FTTH,,2021-06-09T18:20:53-03:00,adicionar,task,fieldActivity,reason,False,gponAccess,device,item,400,BadRequest
+2021-06-09T18:20:53-03:00,SVTAL001,14393,10,VTT001,616551,Instalacao,FTTH,,2021-06-09T18:20:53-03:00,adicionar,task,fieldActivity,reason,False,gponAccess,device,item,401,Unauthorized
+2021-06-09T18:20:53-03:00,SVTAL001,14393,10,VTT001,616551,Instalacao,FTTH,,2021-06-09T18:20:53-03:00,adicionar,task,fieldActivity,reason,False,gponAccess,device,item,500,ServerError
+2021-06-09T18:20:53-03:00,SVTAL001,14393,10,VTT001,616551,Instalacao,FTTH,,2021-06-09T18:20:53-03:00,adicionar,task,fieldActivity,reason,False,gponAccess,device,item,503,Unavailable
+2021-06-09T18:20:53-03:00,SVTAL001,14393,10,VTT001,616551,Instalacao,FTTH,,2021-06-09T18:20:53-03:00,adicionar,task,fieldActivity,reason,False,gponAccess,device,item,504,Timeout
