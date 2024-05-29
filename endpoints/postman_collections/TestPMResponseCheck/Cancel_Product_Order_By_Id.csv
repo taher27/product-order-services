@@ -1,0 +1,12 @@
+order.Id,associatedDocument,subscriberId,statusCode,scenario
+"ORD123","DOC456","SUB789",200,"Success"
+"ORD124","DOC457","SUB790",400,"Bad Request"
+"ORD125","DOC458","SUB791",401,"Unauthorized"
+"ORD126","DOC459","SUB792",403,"Forbidden - Scope Not Permitted"
+"ORD127","DOC460","SUB793",404,"Not Found"
+"ORD128","DOC461","SUB794",406,"Not Acceptable"
+"ORD129","DOC462","SUB795",423,"Locked"
+"ORD130","DOC463","SUB796",429,"Too Many Requests - Exceeded Quota"
+"ORD131","DOC464","SUB797",500,"Internal Server Error"
+"ORD132","DOC465","SUB798",503,"Service Unavailable"
+"ORD133","DOC466","SUB799",504,"Gateway Timeout"

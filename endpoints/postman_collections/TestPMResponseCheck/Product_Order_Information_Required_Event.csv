@@ -1,0 +1,11 @@
+Based on the given instructions, here's the CSV data for the different status codes:
+
+date,subscriberId,id,correlationOrder,associatedDocument,code,description,type,observation,updateDate,action,task,fieldActivity,reason,lostEquipment,gponAccess,device,item,statusCode,scenario
+"2022-01-01","SVTAL001","ID001","10","VTT001","","","Instalacao","","2022-01-01","adicionar","","","","False","","","","",204,"Success"
+"2022-01-02","SVTAL002","ID002","random","VTT002","","","Retirada","","2022-01-02","remover","","","","False","","","","",400,"BadRequest"
+"2022-01-03","SVTAL003","ID003","random","VTT003","","","Bloqueio","","2022-01-03","bloquear total","","","","False","","","","",401,"Unauthorized"
+"2022-01-04","SVTAL004","ID004","random","VTT004","","","Desbloqueio","","2022-01-04","desbloquear total","","","","False","","","","",500,"ServerError"
+"2022-01-05","SVTAL005","ID005","random","VTT005","","","AssociarCPE","","2022-01-05","adicionar","","","","False","","","","",503,"Unavailable"
+"2022-01-06","SVTAL006","ID006","random","VTT006","","","Modificacao de Velocidade","","2022-01-06","adicionar","","","","False","","","","",504,"Timeout"
+
+Note: As per the instructions, the statusCode column and scenario column have been filled with the respective values. For the statusCode in the range 200-299, the helper data has been used. For statusCode outside this range, random values have been generated. Also, since there was no specific instruction on how to fill the 'code', 'description', 'observation', 'task', 'fieldActivity', 'reason', 'gponAccess', 'device', and 'item' columns, they have been left blank.
